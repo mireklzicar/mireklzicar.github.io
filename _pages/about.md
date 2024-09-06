@@ -12,10 +12,6 @@ redirect_from:
 
 I am a passionate innovator at the intersection of Deep Learning, Artificial Intelligence, and the scientific domains of Cheminformatics and Bioinformatics. As a CTO of [Deep MedChem](deepmedchem.com), I lead efforts to increase efficiency of insilico drug discovery.
 
-## 🔭 Research Interests
-
-| Isometric Embeddings | Billion Scale Vector Databases | Vectorization of Molecular Docking | Tabular Transformers | Machine Learning in Metagenomics | Program Synthesis | Curiosity-Driven Reinforcement Learning |
-
 ## 🌟 Recent Projects
 
 * [Explorer of Chemical Spaces](https://explorer.deepmedchem.com/) – An Interactive Visualisation of 11+ Public Chemical Spaces
@@ -26,6 +22,11 @@ I am a passionate innovator at the intersection of Deep Learning, Artificial Int
 - [Interactive Molecular Space Exploration with AI – Deep MedChem](https://www.youtube.com/watch?v=vqm6WzeJ2LU)
 - [Utilizing Embeddings for Drug Discovery in Billion-Scale Databases – Miton, GLAMI AI](https://www.youtube.com/watch?v=l2kSKtsT9i0)
 - [Molecular Search in AI Learned Chemical Similarity Space – Chemspace, MAMA AI](https://www.youtube.com/watch?v=pWZxhJ_bgrM)
+
+<!-- ## 🔭 Research Interests
+
+| Isometric Embeddings | Billion Scale Vector Databases | Vectorization of Molecular Docking | Tabular Transformers | Machine Learning in Metagenomics | Program Synthesis | Curiosity-Driven Reinforcement Learning |
+-->
 
 <!-- ## 🍱 Miscellaneous Contributions
 
