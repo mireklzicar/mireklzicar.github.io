@@ -12,9 +12,8 @@ redirect_from:
 
 I am a passionate innovator at the intersection of Deep Learning, Artificial Intelligence, and the scientific domains of Cheminformatics and Bioinformatics. As a CTO of [Deep MedChem](deepmedchem.com), I lead efforts to increase efficiency of insilico drug discovery.
 
-## 🔭 Research Interests
-
-| Isometric Embeddings | Billion Scale Vector Databases | Vectorization of Molecular Docking | Tabular Transformers | Machine Learning in Metagenomics | Program Synthesis | Curiosity-Driven Reinforcement Learning |
+## 📚 Recent Publications 
+* [CHEESE: 3D Shape and Electrostatic Virtual Screening in a Vector Space](https://chemrxiv.org/engage/chemrxiv/article-details/67250915f9980725cfcd1f6f)
 
 ## 🌟 Recent Projects
 
@@ -27,7 +26,9 @@ I am a passionate innovator at the intersection of Deep Learning, Artificial Int
 - [Utilizing Embeddings for Drug Discovery in Billion-Scale Databases – Miton, GLAMI AI](https://www.youtube.com/watch?v=l2kSKtsT9i0)
 - [Molecular Search in AI Learned Chemical Similarity Space – Chemspace, MAMA AI](https://www.youtube.com/watch?v=pWZxhJ_bgrM)
 
-<!-- ## 🍱 Miscellaneous Contributions
+
+<!--
+## 🍱 Miscellaneous
 
 * [Issue Duration Labeller – Github Marketplace](https://github.com/marketplace/actions/issue-duration-labeler) – Github Action for automatic labelling of issues based on time taken
 * [Spanning Trees Search](https://github.com/mireklzicar/Spanning-trees-search) – Python project leveraging matrix methods in graph theory to efficiently enumerate spanning trees.
@@ -35,7 +36,4 @@ I am a passionate innovator at the intersection of Deep Learning, Artificial Int
 * [Time Resolved X-ray Diffraction Crystallography](https://github.com/mireklzicar/Time-resolved-X-ray-diffraction-crystallography) – Work for ELI Beamlines under research group TREX at Department of Structural Dynamics
 * [Anyone who writes critical theory must have a sense of irony](https://www.klackoviste.cz/clanky/grandhotel-nad-propasti) – Literature criticism of Stuart Jeffries' book Grand Hotel Abyss about Frankfurt School of Critical Theory 
 * [Truth and Bullshit](https://www.vaclavhavel.cz/admnew/_upload/docs/lzicar_miroslav_gymnazium_keplera_praha_1512729594.pdf) – An essay on the nature of language in the context of digital media.
-* [On the Phenomenon of Artificial Neural Networks](https://gjk.cz/wp-content/uploads/2019/06/palice_L%C5%BEi%C4%8Da%C5%99_fenomen-neuronov%C3%BDch-s%C3%ADt%C3%AD.pdf) – A thesis about inceptionism and hallucinations in neural networks, drawing inspiration from epistemology and cognitive neuroscience.
-
-## 📚 Publications
-- Coming soon -->
+* [On the Phenomenon of Artificial Neural Networks](https://gjk.cz/wp-content/uploads/2019/06/palice_L%C5%BEi%C4%8Da%C5%99_fenomen-neuronov%C3%BDch-s%C3%ADt%C3%AD.pdf) – A thesis about inceptionism and hallucinations in neural networks, drawing inspiration from epistemology and cognitive neuroscience. -->
